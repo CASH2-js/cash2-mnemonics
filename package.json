@@ -1,7 +1,7 @@
 {
-  "name": "turtlecoin-mnemonics",
+  "name": "cash2-mnemonics",
   "version": "0.0.5",
-  "description": "TurtleCoin Mnemonic Words",
+  "description": "CASH2 Mnemonic Words",
   "types": "dist/mnemonics.d.ts",
   "main": "dist/mnemonics.js",
   "files": [
@@ -17,18 +17,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turtlecoin/node-turtlecoin-mnemonics.git"
+    "url": "git+https://github.com/CASH2-js/cash2-mnemonics.git"
   },
-  "homepage": "https://mnemonics.turtlecoin.dev",
+  "homepage": "https://github.com/CASH2-js/cash2-mnemonics",
   "bugs": {
-    "url": "https://github.com/turtlecoin/node-turtlecoin-mnemonics/issues"
+    "url": "https://github.com/CASH2-js/cash2-mnemonics/issues"
   },
   "keywords": [
     "TurtleCoin",
     "Mnemonic",
     "Words"
   ],
-  "author": "The TurtleCoin Developers",
+  "author": "The TurtleCoin Developers / wkibbler",
   "license": "GPL-3.0",
   "dependencies": {
     "crc": "^3.8.0",
